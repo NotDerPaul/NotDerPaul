@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @notderpaul
+- 👀 I’m interested in html, css, js
+- 🌱 I’m currently learning nothing
