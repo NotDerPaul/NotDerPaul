@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @notderpaul
-- 👀 I’m interested in html, css, js
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in html, css, js, lua, java, c#
+- 🌱 I’m currently learning java
