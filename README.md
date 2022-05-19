@@ -7,4 +7,5 @@
 <br>
 <div align ="center"> 
   <a href = "https://discord.gg/BdZ8uH3kEt"><img src="https://img.shields.io/discord/940493109018636330?label=Raid%20Control" target="_blank"></a>
+  <a href = "https://discord.gg/BdZ8uH3kEt"><img src="https://img.shields.io/discord/940493109018636330?label=Raid%20Control" target="_blank"></a>
 </div>
